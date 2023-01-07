@@ -1,0 +1,6 @@
+# Conflicts with requirements-dev.txt
+# Please, run `pip uninstall black` first
+
+-r requirements-base.txt
+typer[all]==0.6.1
+orjson
